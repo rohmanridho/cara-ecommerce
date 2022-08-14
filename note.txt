@@ -1,0 +1,14 @@
+1. create index.html, script.js, style.css
+2. connect html with css and js
+3. set font style on style.css
+4. test sample font on index.html
+5. create comment section css
+/* Header Page */
+
+/* Shop Page */
+
+/* Single Product */
+
+/* Blog Page */
+
+6. 
